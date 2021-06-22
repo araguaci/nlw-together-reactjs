@@ -25,9 +25,9 @@ export function Home() {
     <div id="page-auth">
       <aside>
         <img src={illustrationImg} alt="Perguntas e respostas" />
-        <strong>Toda pergunta tem uma resposta.</strong>
+        <strong>Crie salas de Q&amp;A ao-vivo</strong>
         <p>
-          Aprenda e compartilhe conhecimento com outras pessoas
+          Tire as dúvidas da sua audiência em tempo-real
         </p>
       </aside>
 
