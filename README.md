@@ -14,18 +14,19 @@ $ cd nlw-together-reactjs
 ```
 Follow the steps below:
 
-## Todo
-[x] Enviroment
-[x] Layout
-[x] Autentication Firebase
-[ ] Create Room
-[ ] Levels Admin/User
-
-# Install the dependencies
+## Install the dependencies
 $ yarn
 
-# Start the project
+## Start the project
 $ yarn start
 
 The app will be available for access on your browser at http://localhost:3000
+
+## Todo
+- [x] Enviroment
+- [x] Layout
+- [x] Autentication Firebase
+- [ ] Create Room
+- [ ] Levels Admin/User
+
 
