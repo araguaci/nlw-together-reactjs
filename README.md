@@ -18,7 +18,9 @@ Follow the steps below:
 - [x] Enviroment
 - [x] Layout
 - [x] Autentication Firebase
-- [ ] Create Room
+- [x] Firebase Roles
+- [x] Create Room
+- [x] Create Questions
 - [ ] Levels Admin/User
 
 # Install the dependencies
