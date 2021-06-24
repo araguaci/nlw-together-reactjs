@@ -21,12 +21,14 @@ Follow the steps below:
 - [x] Firebase Roles
 - [x] Create Room
 - [x] Create Questions
-- [ ] Levels Admin/User
+- [x] Levels Admin/User
 
-# Install the dependencies
+## Install the dependencies
+
 $ yarn
 
-# Start the project
+## Start the project
+
 $ yarn start
 
 The app will be available for access on your browser at http://localhost:3000
