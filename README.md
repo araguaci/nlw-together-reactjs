@@ -31,3 +31,35 @@ $ yarn start
 
 The app will be available for access on your browser at http://localhost:3000
 
+# nlw-together-reactjs
+
+- [x] Stage 1 => together
+  - [x] fundamentos ReactJS
+
+- [x] Stage 2 => unidade
+  - [x] imutabibidade
+  - [x] ContextAPI
+  - [x] UseState => leaft state up
+  - [x] spreadprops => elements
+      
+- [x] Stage 3 => em busca de evolução
+  - [x] firebase autorização: 32:48
+  - [x] montando tela para criar sala: 44:29
+  - [x] montando tela para criar pergunta: 1:01:28
+  - [x] consumindo perguntas firebase: 1:13:47
+
+- [x] Stage 4 => legado
+  - [x] themecontextprovider 
+  - [x] componente criando perguntas: 8:32
+    - [x] desestruturando objetos para consumir: 10:23
+    - [x] JSON.stringify{objeto}
+    - [x] algoritmo de reconciliação: 18:30
+  - [x] criando hook para consumir sala: 21:50
+  - [x] montagem de sala admin: 26:55
+  - [x] encerrando sala +plus (gap): 30:16
+  - [x] aprendendo uns segredos (restoperator): 30:30
+  - [x] montando like/funcionalidades para perguntas: 30:40
+    - [x] slint => verificação de objetos dentro de objetos
+    - [x] dependência de hooks / unsubscribe: 51:55
+  - [x] remoção de pergunta: 1:02:27
+  - [x] encerrar sala: 1:06:54

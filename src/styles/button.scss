@@ -16,6 +16,12 @@
 
   transition: filter 0.2s;
 
+  &.outlined {
+    background: #FFF;
+    border: 1px solid #835afd;
+    color: #835afd;
+  }
+  
   img {
     margin-right: 8px;
   }
