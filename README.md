@@ -1,13 +1,13 @@
 <p align="center">
-  🚀 <img target="_black" src="https://raw.githubusercontent.com/araguaci/nlw-together-reactjs/8c5990381e6092f62e1d6f48310cc82f299ac6e1/src/assets/images/logo.svg" alt="Letmeask" title="Let me Ask"/>🚀
+  <img target="_black" src="https://raw.githubusercontent.com/araguaci/nlw-together-reactjs/8c5990381e6092f62e1d6f48310cc82f299ac6e1/src/assets/images/logo.svg" alt="Letmeask" title="Let me Ask"/>
 </p>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-todo">Todo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-roadmap">Roadmap</a>
 </p>
 
 <p align="center">
@@ -25,7 +25,8 @@ This project was developed using the following technologies:
 
 ## 🔎 Project 
 
-Accese demo project [here](https://letmeask-42c3c.web.app).
+Next Level Week #nlw-together
+Demo project [here](https://letmeask-42c3c.web.app).
 
 ## 🚀 Getting started
 
@@ -59,7 +60,7 @@ The app will be available for access on your browser at http://localhost:3000
 - [ ] Theme Dark/Light
 - [ ] Other Features
 
-## nlw-together-reactjs roadmap
+## Roadmap
 
 - [x] Stage 1 => together
   - [x] fundamentos ReactJS
