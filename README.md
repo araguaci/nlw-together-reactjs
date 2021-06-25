@@ -51,6 +51,38 @@ $ yarn start
 
 The app will be available for access on your browser at http://localhost:3000
 
+<strong>Note:</strong> to use the project on your own machine or deploy, it is necessary to follow the Firebase configuration rules below.
+
+- Create a new project in Firebase (<a href="https://console.firebase.google.com/u/0/?hl=pt-br">click here</a>); 
+- On the project's configuration page, copy the string values ​​from `firebaseConfig`;
+- Create a `.env.local` file for environment variables, copy the variables prefixed with `REACT_APP` from `firebaseConfig` in the `firebase.ts` file in the services folder and paste in the `.env.local` file;
+- Assign string values ​​that were copied from the Firebase project to these variables;
+- In RealTime Database, enter the following rules:
+	
+```{
+  "rules": {
+    "rooms": {
+      ".read": false,
+      ".write": "auth != null",
+      "$roomId": {
+        ".read": true,
+        ".write": "auth != null && (!data.exists() || data.child('authorId').val() == auth.id)",
+        "questions": {
+          ".read": true,
+          ".write": "auth != null && (!data.exists() || data.parent().child('authorId').val() == auth.id)",
+          "likes": {
+            ".read": true,
+            ".write": "auth != null && (!data.exists() || data.child('authorId').val() == auth.id)"
+          }
+        }
+      }
+    }
+  }
+}
+```
+- If you are going to use the Firebase hosting service, delete these files: `.firebase` folder, `.github\workflows` folder, `.firebaserc`, `firebase.json` and `database.rules.json` and follow the deployment instructions from the official Firebase documentation <a href="https://console.firebase.google.com/u/0/project/teste-64e4d/hosting/sites?hl=pt-br">here</a>;
+- If you use your GitHub project to deploy, put the Firebase environment variables on the GitHub platform, follow the documentation <a href="https://docs.github.com/pt/actions/reference/environment-variables">here</a>. 
+
 ## Todo
 - [x] Enviroment
 - [x] Layout
