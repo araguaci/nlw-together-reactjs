@@ -25,7 +25,7 @@ This project was developed using the following technologies:
 
 ## 🔎 Project 
 
-#Letmeasak => This is a project developed during the Next Level Week Together, presented by @rocketseat during June 2021.
+#Letmeasak! This is a project developed during the Next Level Week Together, presented by <a href="https://github.com/rocketseat">@rocketseat</a> during June 2021.
   
 Demo project [here](https://letmeask-42c3c.web.app).
 
@@ -59,7 +59,7 @@ The app will be available for access on your browser at http://localhost:3000
 - [x] Features Admin Rooms 
 - [x] Deploy Firebase
 - [ ] Theme Dark/Light
-- [ ] Other Features
+- [ ] New features coming soon
 
 ## Roadmap
 
