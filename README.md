@@ -1,9 +1,5 @@
-<h1 align="center">
-  🚀 Let me Ask 🚀
-</h1>
-
 <p align="center">
-  <img target="_black" src="https://raw.githubusercontent.com/araguaci/nlw-together-reactjs/8c5990381e6092f62e1d6f48310cc82f299ac6e1/src/assets/images/logo.svg" alt="Letmeask"><>
+  🚀 <img target="_black" src="https://raw.githubusercontent.com/araguaci/nlw-together-reactjs/8c5990381e6092f62e1d6f48310cc82f299ac6e1/src/assets/images/logo.svg" alt="Letmeask" title="Let me Ask"/>🚀
 </p>
 
 <p align="center">
