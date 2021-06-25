@@ -99,5 +99,8 @@ The app will be available for access on your browser at http://localhost:3000
   - [x] firebase-tools
   - [ ] firebase deploy
 
-## tips
+## Tips
   - [x] Record<typeKey> para tipar objetos
+  - [x] Sass rules
+  - [x] useEffect / Hooks
+  - [x] Spreadprops
