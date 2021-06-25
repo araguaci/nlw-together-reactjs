@@ -112,10 +112,6 @@ The app will be available for access on your browser at http://localhost:3000
 
 Thank you for being interested in making this package better. We encourage everyone to help improve this project with new features, bug fixes, or performance improvements. Please take a little bit of your time to read our guide to make this process faster and easier.
 
-### Contribution Guidelines
-
-To understand how to submit an issue, commit and create pull requests, check our [Contribution Guidelines](/CONTRIBUTING.md).
-
 ## License
 
 MIT License © [Araguaci](https://github.com/araguaci)
