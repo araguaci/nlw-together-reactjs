@@ -30,11 +30,14 @@ This project was developed using the following technologies:
 Letmeasak! This is a project developed during the Next Level Week Together, presented by <a href="https://github.com/diego3g">@diego3g</a> CTO at <a href="https://github.com/rocketseat">@rocketseat</a> during June 2021.
 Tool that has the purpose of solving questions during a live class. With it you can create private rooms where only those who have the room ID can access, participants can ask questions with Google Account, like on them. The room creator can mark the questions as answered, highlight and remove questions, the room can be closed.
 
-Code room ReactJS: -Md-otlvCJyPPoCBbprh
+Code room ReactJS: 
+```code
+-Md-otlvCJyPPoCBbprh
+```
 
-Demo room: (https://letmeask-42c3c.web.app/rooms/-Md-otlvCJyPPoCBbprh)
+Link [Demo room](https://letmeask-42c3c.web.app/rooms/-Md-otlvCJyPPoCBbprh)
 
-Demo project init [here](https://letmeask-42c3c.web.app).
+Demo project home [here](https://letmeask-42c3c.web.app).
 
 ## 🚀 Getting started
 
