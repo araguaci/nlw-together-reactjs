@@ -25,7 +25,8 @@ This project was developed using the following technologies:
 
 ## 🔎 Project 
 
-#Letmeasak! This is a project developed during the Next Level Week Together, presented by <a href="https://github.com/rocketseat">@rocketseat</a> during June 2021.
+Letmeasak! This is a project developed during the Next Level Week Together, presented by <a href="https://github.com/rocketseat">@rocketseat</a> during June 2021.
+Tool that has the purpose of solving questions during a live class. With it you can create private rooms where only those who have the room ID can access, participants can ask questions with Google Account, like on them. The room creator can mark the questions as answered, highlight and remove questions, the room can be closed.
   
 Demo project [here](https://letmeask-42c3c.web.app).
 
