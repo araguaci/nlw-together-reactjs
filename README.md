@@ -1,5 +1,5 @@
 <p align="center">
-  <img target="_black" src="https://raw.githubusercontent.com/araguaci/nlw-together-reactjs/8c5990381e6092f62e1d6f48310cc82f299ac6e1/src/assets/images/logo.svg" alt="Letmeask" title="Let me Ask"/>
+  <a href="https://letmeask-42c3c.web.app/" target="_black" title="Let me Ask - Demo Project"><img src="https://raw.githubusercontent.com/araguaci/nlw-together-reactjs/8c5990381e6092f62e1d6f48310cc82f299ac6e1/src/assets/images/logo.svg" alt="Letmeask" /></a>
 </p>
 
 <p align="center">
