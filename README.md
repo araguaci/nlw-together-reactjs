@@ -25,7 +25,8 @@ This project was developed using the following technologies:
 
 ## 🔎 Project 
 
-Next Level Week #nlw-together
+#Letmeasak => This is a project developed during the Next Level Week Together, presented by @rocketseat during June 2021.
+  
 Demo project [here](https://letmeask-42c3c.web.app).
 
 ## 🚀 Getting started
