@@ -97,7 +97,7 @@ The app will be available for access on your browser at http://localhost:3000
 - [x] Stage 5 => juntos no próximo nível
   - [x] sass rules
   - [x] firebase-tools
-  - [ ] firebase deploy
+  - [x] firebase deploy
 
 ## Tips
   - [x] Record<typeKey> para tipar objetos
