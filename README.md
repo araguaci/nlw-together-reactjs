@@ -1,3 +1,22 @@
+<h1 align="center">
+  🚀 Let me Ask 🚀
+</h1>
+
+<p align="center">
+  https://raw.githubusercontent.com/araguaci/nlw-together-reactjs/8c5990381e6092f62e1d6f48310cc82f299ac6e1/src/assets/images/logo.svg
+</p>
+
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+<br>
 https://letmeask-42c3c.web.app/
 
 ## 🧪 Technologies
@@ -29,6 +48,7 @@ $ yarn
 # Start the project
 $ yarn start
 ```
+
 The app will be available for access on your browser at http://localhost:3000
 
 ## Todo
@@ -41,6 +61,8 @@ The app will be available for access on your browser at http://localhost:3000
 - [x] Levels Admin/User
 - [x] Features Admin Rooms 
 - [x] Deploy Firebase
+- [ ] Theme Dark/Light
+- [ ] Other Features
 
 ## nlw-together-reactjs roadmap
 
