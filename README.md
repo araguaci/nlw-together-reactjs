@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  https://raw.githubusercontent.com/araguaci/nlw-together-reactjs/8c5990381e6092f62e1d6f48310cc82f299ac6e1/src/assets/images/logo.svg
+  <img target="_black" src="https://raw.githubusercontent.com/araguaci/nlw-together-reactjs/8c5990381e6092f62e1d6f48310cc82f299ac6e1/src/assets/images/logo.svg" alt="Letmeask"><>
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 <br>
-https://letmeask-42c3c.web.app/
 
 ## 🧪 Technologies
 
