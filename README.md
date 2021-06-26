@@ -105,12 +105,14 @@ The app will be available for access on your browser at http://localhost:3000
 - [x] Levels Admin/User
 - [x] Features Admin Rooms 
 - [x] Deploy Firebase
-- [ ] Theme Dark/Light
+	
+## Next Level
+- [x] Theme Dark/Light
+- [x] Responsible mode
 - [ ] New features coming soon
 - [ ] Login link for unregister user
 	
 ## Roadmap
-
 - [x] Stage 1 => together
   - [x] fundamentos ReactJS
 
