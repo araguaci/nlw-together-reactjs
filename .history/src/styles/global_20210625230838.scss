@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --white: #f8f8f8;
+  --gray: #a8a8b3;
+  --red: #ea4335;
+  --purple: #835afd;
+  --color-body: #29292e;
+}
+
+body {
+  background: var(--white);
+  color: var(--color-body);
+}
+
+body,
+input,
+button,
+textarea {
+  font: 400 1.6rem "Roboto", sans-serif;
+}
+
+.react-toggle {
+  cursor: pointer;
+  position: relative;
+  touch-action: pan-x;
+  user-select: none;
+}
+
+.light{
+  background: #fff;
+}
+
+.dark{
+  background:#171923;
+}
+
+p {
+  .light{
+    color:#29292e
+    }
+    .dark{
+     color:#f8f8f8
+    }
+}
+
+.themeChange {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+}
