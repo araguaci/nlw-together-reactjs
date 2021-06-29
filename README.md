@@ -165,4 +165,4 @@ Thank you for being interested in making this package better. We encourage every
 
 ## License
 
-MIT [License](https://github.com/araguaci/nlw-together-reactjs/blob/main/LICENSE) [Araguaci](https://github.com/araguaci)
+MIT [License](https://github.com/araguaci/nlw-together-reactjs/blob/main/LICENSE) | Made by: [Araguaci](https://github.com/araguaci)
