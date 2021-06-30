@@ -21,6 +21,7 @@
 This project was developed using the following technologies:
 
 - [React](https://reactjs.org)
+- [NodeJS]https://github.com/artesdosul/awesome-nodejs/tree/master
 - [Sass](https://sass-lang.com/)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
